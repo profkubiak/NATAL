@@ -39,10 +39,10 @@ body {
   }
   
   .arvore {
-    max-width:1,0%
-    width:0,5%;
+    max-width:500%
+    width: 500%;
     display: block;
-    margin: 20 auto;
+    margin: 0 auto;
   }
   
   /* Rodapé */
