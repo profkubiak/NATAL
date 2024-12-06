@@ -39,8 +39,8 @@ body {
   }
   
   .arvore {
-    max-width:500%
-    width: 500%;
+    max-width:0,5%
+    width: 0,5%;
     display: block;
     margin: 0 auto;
   }
